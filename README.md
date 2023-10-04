@@ -1,2 +1,0 @@
-# MachineLearning
-MachineLearning samples
